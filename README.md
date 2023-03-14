@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dev Jobalia</h1>
 <h3 align="center">A Developer from India with Entrepreneurial Mindset</h3>
+<h3 align="center">💬 Ask me about Python, AWS, Linux, Product Managment, Marketing, Design</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
