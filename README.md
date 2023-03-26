@@ -3,7 +3,7 @@
 <h3 align="center">💬 Ask me about Python, AWS, Linux, Product Managment, Marketing, Design</h3>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -22,11 +22,14 @@
 </a> 
   
 <a href="#" target="_blank" rel="noreferrer"> 
-  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/adobeaftereffects.svg" alt="Premier Pro" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968428.png" alt="After Effect" width="40" height="40"/>
 </a> 
 
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
+</a> 
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+</a>
 
-</p>
