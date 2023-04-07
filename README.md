@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dev Jobalia</h1>
 <h3 align="center">A Developer from India with Entrepreneurial Mindset</h3>
 <h3 align="center">💬 Ask me about Python, AWS, Linux, Product Managment, Marketing, Design</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=devjobalia&label=Profile%20views&color=0e75b6&style=flat" alt="devjobalia" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devjobalia&label=Profile%20views&color=0e75b6&style=flat" alt="devjobalia" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -42,6 +42,10 @@
   <img src="https://camo.githubusercontent.com/179d66ab2b0321726c88a586c4ad38802e7113a3c98c6fd3f0156c01c98cfd14/68747470733a2f2f6672616d657275736572636f6e74656e742e636f6d2f696d616765732f34386861395a52396f5a51475136675a38595566456c50335430412e706e67" alt="framer-motion" width="40" height="40"/> 
 </a>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=devjobalia&show_icons=true&locale=en&layout=compact" alt="devjobalia" /></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=devjobalia&" alt="devjobalia" /></p>
+&nbsp;
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devjobalia&show_icons=true&locale=en&layout=compact" alt="devjobalia" />
+  &nbsp;&nbsp;
+  <img  align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=devjobalia&" alt="devjobalia" />
+</div>
