@@ -48,4 +48,15 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devjobalia&show_icons=true&locale=en&layout=compact" alt="devjobalia" />
   &nbsp;&nbsp;
   <img  align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=devjobalia&" alt="devjobalia" />
+  
+  &nbsp;&nbsp;
+  <p align="center"> 
+    <a href="https://github.com/DevJobalia/github-readme-activity-graph#gh-light-mode-only">
+      <img src="https://github-readme-activity-graph.cyclic.app/graph?username=DevJobalia&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
+  </a>
+  <a href="https://github.com/DevJobalia/github-readme-activity-graph#gh-dark-mode-only">
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=DevJobalia&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
+  </a>
+</p>
 </div>
+
