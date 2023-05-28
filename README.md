@@ -3,8 +3,6 @@
 <h3 align="center">💬 Ask me about Python, AWS, Linux, Product Managment, Marketing, Design, DSA</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DevJobalia&label=Profile%20views&color=0e75b6&style=flat" alt="devjobalia" /> </p>
 
-
-<!-- SKILL TABLE: NHADIQ -->
 <h2 align='center'><i>Languages</i></h2>
 <table width="100" align='center'>
 <tr>
@@ -33,7 +31,7 @@
 </table>
 <h3 align='center'> 🚀 Framework, Technology and Tools </h3>
 
-<table>
+<table height='100%'>
     <tr>        
         <td>☁ Cloud</td>
         <td>
