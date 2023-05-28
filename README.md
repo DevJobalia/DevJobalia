@@ -21,17 +21,11 @@
           <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> 
         </a>
     </td>
-<!--      <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg">
-    </td>
-    <td align='center'  width="190">
-        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
-    </td> -->
 </tr>
 </table>
-<h3 align='center'> 🚀 Framework, Technology and Tools </h3>
 
-<table height='100%'>
+<h2 align='center'> 🚀 Framework, Technology and Tools </h2>
+<table height= '200' width='100' align='center'>
     <tr>        
         <td>☁ Cloud</td>
         <td>
