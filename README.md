@@ -5,10 +5,8 @@
 
 
 <!-- SKILL TABLE: NHADIQ -->
-## 🚀 Framework, Technology and Tools 
-
 <h2 align='center'><i>Languages</i></h2>
-<table width="100">
+<table width="100" align='center'>
 <tr>
     <td align='center' width="190">
         <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
@@ -33,6 +31,7 @@
     </td> -->
 </tr>
 </table>
+<h3 align='center'> 🚀 Framework, Technology and Tools </h3>
 
 | **☁ Cloud**             	| <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"> |
 |:-------------------------:	|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
@@ -47,15 +46,17 @@
 <!-- STATS -->
 &nbsp;
 <div>
-  &nbsp;&nbsp;
-  <p align="center"> 
-    <a href="https://github.com/DevJobalia/github-readme-activity-graph#gh-light-mode-only">
-      <img src="https://github-readme-activity-graph.cyclic.app/graph?username=DevJobalia&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
-  </a>
-  <a href="https://github.com/DevJobalia/github-readme-activity-graph#gh-dark-mode-only">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=DevJobalia&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
-  </a>
-</p>
+    <h2 align='center'><i><a href="https://github.com/DevJobalia">Activity Graph 📈</i></h2>
+    <p align="center">
+        <a href="https://github.com/Ashutosh00710/github-readme-activity-graph#gh-light-mode-only">
+            <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevJobalia&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
+        </a>
+        <a href="https://github.com/Ashutosh00710/github-readme-activity-graph#gh-dark-mode-only">
+            <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevJobalia&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
+        </a>
+    </p>
+</br>
+
 <details align="center">
     <summary> <code>Click for More Stats</code> </summary>
     <br>
