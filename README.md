@@ -1,3 +1,5 @@
+<img src="https://t.bkit.co/w_64aee8c27019d.gif" />
+
 <h1 align="center">Hi 👋, I'm Dev Jobalia</h1>
 <h3 align="center">A Developer from India with Entrepreneurial Mindset</h3>
 <h3 align="center">💬 Ask me about Python, AWS, Linux, Product Managment, Marketing, Design, DSA</h3>
