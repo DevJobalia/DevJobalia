@@ -15,13 +15,13 @@
         </a>
     </td>
     <td align='center' width="190">
-        MULTIPARADIGM
+        MULTIPARADIGM <br>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">             
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
         </a>
     </td>
     <td align='center' width="190">
-        STRONGLY TYPED
+        STRONGLY TYPED <br>
         <a href="#">            
           <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> 
         </a>
