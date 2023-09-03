@@ -9,18 +9,28 @@
 <table width="100" align='center'>
 <tr>
     <td align='center' width="190">
-        <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+        DYNAMICALLY TYPED
+        <a href="https://www.python.org" target="_blank" rel="noreferrer">             
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
         </a>
     </td>
     <td align='center' width="190">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+        MULTIPARADIGM
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">             
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
         </a>
     </td>
     <td align='center' width="190">
-        <a href="#">
+        STRONGLY TYPED
+        <a href="#">            
           <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> 
+        </a>
+    </td>
+    <td align='center' width="190">
+        LOW LEVEL <br>
+        <a href="#">
+            --
+<!--              ?? RUST / GO ?? -->
         </a>
     </td>
 </tr>
