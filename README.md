@@ -3,12 +3,13 @@
 <h1 align="center">Hi 👋, I'm Dev Jobalia</h1>
 <h3 align="center">A Developer from India with Entrepreneurial Mindset</h3>
 <h3 align="center">💬 Lets talk me about </h3>
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">    
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">
-    <img src="https://img.shields.io/badge/Product Managment-%2307405e.svg?style=for-the-badge">
-    <img src="https://img.shields.io/badge/Marketing-%230081CB.svg?style=for-the-badge">
-    <img src="https://img.shields.io/badge/Design-38b595?style=for-the-badge">         
+
+![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)    
+![](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
+![](https://img.shields.io/badge/Product_Managment-%2307405e.svg?style=for-the-badge)
+![](https://img.shields.io/badge/Marketing-%230081CB.svg?style=for-the-badge)
+![](https://img.shields.io/badge/Design-38b595?style=for-the-badge)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DevJobalia&label=Profile%20views&color=0e75b6&style=flat" alt="devjobalia" /> </p>
 
