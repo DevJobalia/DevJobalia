@@ -81,6 +81,7 @@
             <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue"> 
             <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
             <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white">            
+            <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white">
         </td>
     </tr>
     <tr>        
@@ -90,6 +91,9 @@
             <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
             <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
             <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
+            <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens">
+            <img src="https://github.com/DevJobalia/DevJobalia/assets/109411169/66f03742-4c2a-4786-b426-bef0316bb326" style="width:5rem;">
+            <img src="https://github.com/DevJobalia/DevJobalia/assets/109411169/7c7efba9-51e5-4268-b172-e38e73de3504" style="width:6rem;">
         </td>
     </tr>
     <tr>        
@@ -104,6 +108,7 @@
         <td>🧩 Other </td>
         <td>
             <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
+            <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
         </td>
     </tr>    
 </table>
