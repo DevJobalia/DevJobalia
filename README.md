@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">
     <img src="https://img.shields.io/badge/Product Managment-%2307405e.svg?style=for-the-badge">
     <img src="https://img.shields.io/badge/Marketing-%230081CB.svg?style=for-the-badge">
-    <img src="https://img.shields.io/badge/Design-38b595?style=for-the-badge">         
+    <img src="https://img.shields.io/badge/Design-38b595?style=for-the-badge">    
 </h6>
 
 <!--![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)    
@@ -82,6 +82,7 @@
             <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
             <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white">            
             <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white">
+            <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
         </td>
     </tr>
     <tr>        
@@ -109,6 +110,7 @@
         <td>
             <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
             <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
+            <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
         </td>
     </tr>    
 </table>
