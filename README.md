@@ -42,13 +42,13 @@
           <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> 
         </a>
     </td>
-    <td align='center' width="190">
+<!--     <td align='center' width="190">
         LOW LEVEL <br>
         <a href="#">
-            --
+            -- -->
 <!--              ?? RUST / GO ?? -->
-        </a>
-    </td>
+<!--         </a> -->
+<!--     </td> -->
 </tr>
 </table>
 
